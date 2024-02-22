@@ -1,6 +1,6 @@
 # Lenovo_Legion_5_15ARH05h_Hackintosh
 ## Clarifications
-USE IT AT YOUR OWN RISK
+**`USE IT AT YOUR OWN RISK`**
 
 ![Screenshot 2023-12-23 at 10 33 37 AM](https://github.com/833M0L3/Legion-4600H-Hackintosh/assets/41519636/4f6d08d5-4e2c-4790-8921-ae99f96c2dd6)
 ![Screenshot 2023-12-23 at 10 51 15 AM](https://github.com/833M0L3/Legion-4600H-Hackintosh/assets/41519636/c045c5c8-efd1-49e4-9e3d-2db4f6b630c1)
